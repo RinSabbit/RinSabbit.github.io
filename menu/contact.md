@@ -5,7 +5,7 @@ title: Contact
 
 컨택은
 
-- [이메일](celena1004@naver.com)
+- [이메일](mailto:l.celena1004@naver.com)
 - [깃허브](https://github.com/RinSabbit)
 - [오픈카톡](https://open.kakao.com/o/svWrruKc)
 
