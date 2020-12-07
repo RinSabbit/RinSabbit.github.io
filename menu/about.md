@@ -1,18 +1,24 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: 이 블로그에 대해
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+## About Blog
 
-### Getting Started
+코딩 공부에 관한 이야기를 적는 블로그입니다.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### 읽어볼만한 글
+- Still Writing . . .
 
-### Example Content
+## About Author
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+백엔드 개발자 지망생. 게임 개발에도 관심 있음.
 
-### Questions?
+### 주력 언어
+- **Java**
+- Kotlin
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### 관심 분야
+- Android
+- Server
+- Game
