@@ -1,12 +1,21 @@
+---
+layout: post
+title: "우아한 테크코스 3기 프리코스 후기"
+author: "YJ.Ahn"
+categories: journal
+tags: [documentation,development,woowa]
+image: spourt.jpg
+---
+
 # 우아한 테크코스 3기 프리코스 후기
 
 [우아한 형제들](https://www.woowahan.com/)에서 진행하는 [우아한 테크코스](https://woowacourse.github.io/) 1차 전형을 통과하고 프리코스를 3주 동안 진행하였다. 이에 프리코스를 진행하며 겪은 바와 공부한 것을 정리할 겸 후기를 써 본다.
 
 > [ 차례 ]
-0. 1차 전형
-1. 프리코스 준비
-2. 프리코스 진행
-3. 오프라인 코딩 테스트를 앞두고
+> 0. 1차 전형
+> 1. 프리코스 준비
+> 2. 프리코스 진행
+> 3. 오프라인 코딩 테스트를 앞두고
 
 ## 0. 1차 전형
 
