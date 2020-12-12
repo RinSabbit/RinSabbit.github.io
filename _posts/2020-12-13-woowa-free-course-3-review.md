@@ -7,7 +7,7 @@ tags: [documentation,development,woowa]
 image: spourt.jpg
 ---
 
-# 우아한 테크코스 3기 프리코스 후기
+<br>
 
 [우아한 형제들](https://www.woowahan.com/)에서 진행하는 [우아한 테크코스](https://woowacourse.github.io/) 1차 전형을 통과하고 프리코스를 3주 동안 진행하였다. 이에 프리코스를 진행하며 겪은 바와 공부한 것을 정리할 겸 후기를 써 본다.
   
@@ -20,7 +20,7 @@ image: spourt.jpg
 
 <br><br>
 
-## 0. 1차 전형
+## 1. 1차 전형
 
   <br>
   
@@ -53,7 +53,7 @@ image: spourt.jpg
 
 <br><br>
   
-## 1. 프리코스 준비
+## 2. 프리코스 준비
 
   <br>
   
@@ -66,7 +66,8 @@ image: spourt.jpg
 저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
 '서로가 같이할 수 있는지를 탐색할 수 있는 시간'이라고 생각하면 됩니다.
 (...중략...)
-'우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전'했으면 합니다.
+'우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서
+성장해 나가는 과정으로 생각하고 도전'했으면 합니다.
 - 프리코스 사전 준비 안내 메일에서 발췌
 ```
   <br>
@@ -75,7 +76,7 @@ image: spourt.jpg
 
 <br><br>
   
-## 2. 프리코스 진행
+## 3. 프리코스 진행
 
   <br>
   
@@ -83,13 +84,13 @@ image: spourt.jpg
   
   <br>
   
-- 1주차 - [숫자 야구 게임](https://github.com/RinSabbit/java-baseball-precourse/tree/rinsabbit)         |  목표 : 함수를 분리하는 연습
-- 2주차 - [자동차 경주 게임](https://github.com/RinSabbit/java-racingcar-precourse)  |  목표 : 클래스를 분리하는 연습
-- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)         |  목표 : 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 연습  
+- 1주차 - [숫자 야구 게임](https://github.com/RinSabbit/java-baseball-precourse/tree/rinsabbit)
+- 2주차 - [자동차 경주 게임](https://github.com/RinSabbit/java-racingcar-precourse)
+- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)
 
 <br>
 
-  주차를 거듭하면서 더 큰 그림을 그리게 하는 식이었다. 난이도도 자연스레 올라갔다. 숨이 막힐 정도로 어렵진 않았지만 간혹 코드가 막힐 정도로 어렵긴 했다. 막힐 때면 침대에 누워 이걸 어떻게 하냐고 넋두리를 하며 훌쩍거렸다. 충분히 훌쩍거리고 나선 다시 일어나 컴퓨터 앞에 앉았다. 원래 공부는 울면서 해야 늘어난다고 어디서 주워들은 게 있어서 그랬다.
+  부가적인 설명을 하자면 1주차는 함수 분리하기, 2주차는 클래스 분리하기, 3주차는 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 게 목표였다. 주차를 거듭하면서 더 큰 그림을 그리게 하는 식이었다. 난이도도 자연스레 올라갔다. 숨이 막힐 정도로 어렵진 않았지만 간혹 코드가 막힐 정도로 어렵긴 했다. 막힐 때면 침대에 누워 이걸 어떻게 하냐고 넋두리를 하며 훌쩍거렸다. 충분히 훌쩍거리고 나선 다시 일어나 컴퓨터 앞에 앉았다. 원래 공부는 울면서 해야 늘어난다고 어디서 주워들은 게 있어서 그랬다.
   
 <br>
 
@@ -155,7 +156,7 @@ class StreamExample {
 				return false;
 			}
 		}
-			return true;
+		return true;
 	}
 
 	public boolean useStreamAPI() {
@@ -274,7 +275,7 @@ class ElseExample {
 
 <br><br>
 
-## 3. 오프라인(?) 코딩 테스트를 앞두고
+## 4. 오프라인(?) 코딩 테스트를 앞두고
 
   <br>
   
