@@ -22,10 +22,7 @@ image: spourt.jpg
 ## 0. 1차 전형
 
   이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.
-<figure>
-  <img data-action="zoom" src='{{ "/assets/img/불합.png" |  }}' alt='absolute'>
-  <figcaption>당시 결과 안내 메일. 안 울었다.</figcaption>
-</figure>
+![불합 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png "불합 메일")
   
   탈락 소식을 듣고 1년이 지났다. 그동안 바뀐 모습을 보여주겠다는 포부로 3기에 도전했다. 제출 마감 2주 전에 자소서를 미리 쓰기 위해 노트북 앞에 앉았다. 13일 동안 빈 페이지만 노려보다가 남은 하루 동안 밤을 꼴딱 새 자소서를 완성했다. 결국 자소서를 제출하고, 코딩테스트를 준비하고, 시험을 치고, 결과가 나올 때까지 일말의 기대를 하지 않았다. 이유는 간단했다. 하루만에 쓴 자소서가 잘 써졌을 리가 없으니 당연히 탈락할 거라고 생각했기 때문이다. 제출하고 나니 뭐라고 썼는지 기억이 하나도 안 났던 것도 슬픈 예측에 힘을 얹어줬다. 1차 심사 결과가 오기 전까지는 그랬다.
 
