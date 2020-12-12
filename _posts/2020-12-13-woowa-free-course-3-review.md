@@ -11,7 +11,7 @@ image: spourt.jpg
 
 [우아한 형제들](https://www.woowahan.com/)에서 진행하는 [우아한 테크코스](https://woowacourse.github.io/) 1차 전형을 통과하고 프리코스를 3주 동안 진행하였다. 이에 프리코스를 진행하며 겪은 바와 공부한 것을 정리할 겸 후기를 써 본다.
 
-> **차례**  
+> **차례**
 > 0. 1차 전형
 > 1. 프리코스 준비
 > 2. 프리코스 진행
@@ -23,7 +23,7 @@ image: spourt.jpg
 
   이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.
 <figure>
-  <img data-action="zoom" src='{{  | "https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png" }}' alt='absolute'>
+  <img data-action="zoom" src='{{ "/assets/img/불합.png" | "https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png" }}' alt='absolute'>
   <figcaption>당시 결과 안내 메일. 안 울었다.</figcaption>
 </figure>
   
