@@ -41,7 +41,7 @@ image: spourt.jpg
 
 ```
 이 과정을 통해 지원자는 우아한테크코스 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고, 저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
-**서로가 같이할 수 있는지를 탐색할 수 있는 시간**이라고 생각하면 됩니다.
+<b>서로가 같이할 수 있는지를 탐색할 수 있는 시간</b>이라고 생각하면 됩니다.
 (...중략...)
 **우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전**했으면 합니다.
 - *프리코스 사전 준비 안내 메일에서 발췌*
@@ -176,16 +176,16 @@ class ElseExample {
 - [enum](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - 함수형 인터페이스 (Runnable, Consumer, Supplier)
 <details>
-<summary>[MVC 모델](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)</summary>
+<summary><a href="https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/">MVC 모델</a>
+</summary>
 <div markdown="1">       
+	
+![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png "MVC 모델을 알기 전 프로젝트 툴 구성")
+  
 
-    ![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png)
+![엠비씨모델적용후](https://blogfiles.pstatic.net/MjAyMDEyMTNfNzQg/MDAxNjA3NzkyNTg4MjYx.ZMn79GZWdlOKSU1Li2BNLW-BfQSq8vUylNi5bbFCXGwg.goSGI1IdWfbJqZ5JZ3rrcFrZ5iQvHfihiC8Xkn0gUDQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.17.00.png "MVC 모델을 알고 난 후 프로젝트 툴 구성. 아직 배울 점이 많은 것 같다")
 
-    MVC 모델을 알기 전 프로젝트 툴 구성
 
-    ![엠비씨모델적용후](https://blogfiles.pstatic.net/MjAyMDEyMTNfNzQg/MDAxNjA3NzkyNTg4MjYx.ZMn79GZWdlOKSU1Li2BNLW-BfQSq8vUylNi5bbFCXGwg.goSGI1IdWfbJqZ5JZ3rrcFrZ5iQvHfihiC8Xkn0gUDQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.17.00.png)
-
-    MVC 모델을 알고 난 후 프로젝트 툴 구성. 아직 배울 점이 많은 것 같다
 
 </div>
 </details>
