@@ -11,7 +11,7 @@ image: spourt.jpg
 
 [우아한 형제들](https://www.woowahan.com/)에서 진행하는 [우아한 테크코스](https://woowacourse.github.io/) 1차 전형을 통과하고 프리코스를 3주 동안 진행하였다. 이에 프리코스를 진행하며 겪은 바와 공부한 것을 정리할 겸 후기를 써 본다.
 
-> [ 차례 ] <br>
+> **차례**  
 > 0. 1차 전형
 > 1. 프리코스 준비
 > 2. 프리코스 진행
@@ -23,13 +23,13 @@ image: spourt.jpg
 
   이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.
 
-![합격 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png "합격 메일")
+![불합 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png "불합 메일")
 
 당시 결과 안내 메일. 안 울었다.
 
   탈락 소식을 듣고 1년이 지났다. 그동안 바뀐 모습을 보여주겠다는 포부로 3기에 도전했다. 제출 마감 2주 전에 자소서를 미리 쓰기 위해 노트북 앞에 앉았다. 13일 동안 빈 페이지만 노려보다가 남은 하루 동안 밤을 꼴딱 새 자소서를 완성했다. 결국 자소서를 제출하고, 코딩테스트를 준비하고, 시험을 치고, 결과가 나올 때까지 일말의 기대를 하지 않았다. 이유는 간단했다. 하루만에 쓴 자소서가 잘 써졌을 리가 없으니 당연히 탈락할 거라고 생각했기 때문이다. 제출하고 나니 뭐라고 썼는지 기억이 하나도 안 났던 것도 슬픈 예측에 힘을 얹어줬다. 1차 심사 결과가 오기 전까지는 그랬다.
 
-![불합 메일](https://postfiles.pstatic.net/MjAyMDEyMTNfMjE2/MDAxNjA3NzkyNTg2ODY3.dAHLM3zx8_UPFbLb7o4tjp4aJbYi1uj14RRJUSQS35Yg.fIl5TQypAe9V0KvIDTvb7r4yh6o4wyYdAX3QIAEkGGog.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.05.20.png "불합 메일")
+![합격 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjE2/MDAxNjA3NzkyNTg2ODY3.dAHLM3zx8_UPFbLb7o4tjp4aJbYi1uj14RRJUSQS35Yg.fIl5TQypAe9V0KvIDTvb7r4yh6o4wyYdAX3QIAEkGGog.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.05.20.png "합격 메일")
 
 작년과 다른 결과 안내 메일이 오니 감회가 남달랐다.
 
@@ -178,7 +178,9 @@ class ElseExample {
 - static 과 final 의 차이
 - [enum](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 - 함수형 인터페이스 (Runnable, Consumer, Supplier)
-- [MVC 모델](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)
+<details>
+<summary>[MVC 모델](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)</summary>
+<div markdown="1">       
 
     ![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png)
 
@@ -188,6 +190,8 @@ class ElseExample {
 
     MVC 모델을 알고 난 후 프로젝트 툴 구성. 아직 배울 점이 많은 것 같다
 
+</div>
+</details>
 - [InteliJ 단축키](https://youtu.be/HgWU25YwDfc)
 - Git 사용법
 - [Git Commit Convention](https://doublesprogramming.tistory.com/256)
