@@ -18,6 +18,8 @@ image: spourt.jpg
 > 2. 프리코스 진행
 > 3. 오프라인 코딩 테스트를 앞두고
 
+
+
 ## 0. 1차 전형
 
   이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.
@@ -37,14 +39,20 @@ image: spourt.jpg
 ## 1. 프리코스 준비
 
   1차 합격의 기쁨도 잠깐이었다. 최종 합격이 뜰 때까지 김칫국은 마시지 말자고 결심했기 때문에 묵묵하게 프리코스 준비를 시작했다. 프리코스는 우아한 테크코스(이하 우테코)만이 가지는 특이한 절차로, 본과정의 맛보기 코스다.
+  
 
+```
 이 과정을 통해 지원자는 우아한테크코스 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고, 저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
 **서로가 같이할 수 있는지를 탐색할 수 있는 시간**이라고 생각하면 됩니다.
 (...중략...)
 **우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전**했으면 합니다.
 - *프리코스 사전 준비 안내 메일에서 발췌*
+```
+
 
   우테코가 중요시 여기는 것은 **자기주도 학습**과 **협업 정신**이다. 해당 과정은 스스로 공부를 해나가며 개발할 수 있는 역량과 더불어 다른 개발자와 코드로 소통할 수 있는 역량을 파악하는 게 목표인 듯 했다. 솔직히 말하자면 자신 있었다. 시험보다 실전에 강한 편이라고 자부하기 때문이다. 이전 기수의 프리코스 후기를 읽어보면서 나름대로의 준비를 했다. *이런 미션이 나오면 이렇게 풀어야지... 저런 미션이 나오면 저렇게 접근해봐야지... 함수명이랑 변수명은 이렇게 써야지...* 머릿속으로 상상의 코드를 짰다. 마음의 준비만 한 것이나 다름 없었다. 그래도 어쩔 수 없었다. 나는 철저하게 예습을 하며 준비하기 보단 직접 문제에 부닥쳐서 맨땅에 헤딩하는 공부 방식이 적성에 맞았다.
+
+
 
 ## 2. 프리코스 진행
 
@@ -64,6 +72,8 @@ image: spourt.jpg
 
   위 요구사항을 처음 봤을 때 적잖이 충격을 받았다. *자바 코드 컨벤션은 뭐지? 3항 연산자를 쓰는 편이 좋지 않나? 불가피하게 인덴트가 3이 넘으면 어쩌지? 함수가 저렇게 짧아도 되나? else를 쓰지 말라고? switch문도?* 이러한 의문들은 구글링을 하고 코드를 짜면서 자연스레 해결되었다. 그 중 크게 도움이 된 것들을 소개한다.
 
+
+
 ### 자바 코드 컨벤션
 
   자바 코드 컨벤션은 코드를 짤 때 권장하는 규칙이다. 위에 적혀있다시피 미션을 진행할 때에는 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) 를 기본 원칙으로 한다. 당연하게도(?) 나는 한글로 해석된 걸 찾아 읽었고, 다음 세 가지 게시물이 크게 도움이 되었다.
@@ -78,6 +88,8 @@ image: spourt.jpg
 
 이렇게 설정해두면 마음껏 코드를 치고 마무리로 코드 포맷팅을 하면 된다. 마법 같다. 
 
+
+
 ### indent depth 줄이기 - stream API
 
   1주차 미션은 인덴트 깊이를 3까지 허용했지만 2주차부턴 2까지 제한을 걸었다. 나는 연습을 위해 일부러 깊이를 1까지만 허용하도록 스스로에게 제약을 걸었다. 굉장히 힘들었다. 간혹 for 조건절 안에 if 조건절을 써야할 경우가 있었는데, 이걸 어떻게 해결해야할 지 답이 보이지 않았다. 결국 다른 사람들이 pull request 한 코드들을 컨닝(?)했다.
@@ -88,25 +100,26 @@ image: spourt.jpg
 
 ```java
 class StreamExample {
-		String[] fruits = { "apple", "banana", "watermelon" };
-
-		public boolean useForAndIfStatement() {
-				for (int i = 0; i < fruits.length; i++) {
-						if (fruits[i].length() == 5) {
-										return false;
-						}
-				}
-				return true;
+	String[] fruits = { "apple", "banana", "watermelon" };
+	public boolean useForAndIfStatement() {
+		for (int i = 0; i < fruits.length; i++) {
+			if (fruits[i].length() == 5) {
+				return false;
+			}
 		}
+			return true;
+	}
 
-		public boolean useStreamAPI() {
-				return Arrays.stream(fruits)
-						.noneMatch(fruit -> fruit.length() == 5);
-		}
+	public boolean useStreamAPI() {
+		return Arrays.stream(fruits)
+		.noneMatch(fruit -> fruit.length() == 5);
+	}
 }
 ```
 
   두 함수는 같은 기능을 가졌지만 함수 길이와 인덴트 깊이가 확연하게 다른 것을 알 수 있다. 이걸 알고 흥분해서 다른 쓸 만한 API도 있는지 열심히 찾아본 기억이 있다. 함수형 인터페이스도 이 때 알게 되었다. 자바와 좀 더 친해진 기분이었다.
+
+
 
 ### else 예약어 쓰지 않기
 
@@ -114,40 +127,48 @@ class StreamExample {
 
 ```java
 class ElseExample {
-		public boolean doSomethingWithElse() {
-				if (check) {
-						return true;
-				} else {
-						return false;
-				}
+	public boolean doSomethingWithElse() {
+		if (check) {
+			return true;
+		} else {
+			return false;
 		}
+	}
 
-		public boolean doSomethingWihoutElseButSwitch() {
-				switch (check) {
-						case true:
-							return true;
-						default:
-							return false;
-				}
-
-		public boolean doSomethingWithoutElse() {
-				if (check) {
-						return true;
-				}
+	public boolean doSomethingWihoutElseButSwitch() {
+		switch (check) {
+			case true:
+				return true;
+			default:
 				return false;
 		}
+
+	public boolean doSomethingWithoutElse() {
+		if (check) {
+			return true;
+		}
+		return false;
+	}
 }
 ```
 
   보다시피 else를 쓰지 않아도 충분히 코드를 짤 수 있다.
 
+
+
 ### 일급 컬렉션과 자바 API
 
   미션 제출이 마감되면 다음 미션이 시작되면서 공통 피드백이 내려온다. 몇몇은 이미 내게 익숙했고 몇몇은 새로웠다. 기억에 남는 피드백은 아래와 같다.
 
+
+```
 배열 대신 java collection 을 사용해라. (List, Set, Map 등) 다양한 API가 있어 데이터 조작에 용이하다. 또한 자바 API를 적극적으로 활용해라.
+```
+
 
   이전에 배열을 쓰는 것이 컬렉션을 쓰는 것보다 안전하다고 배웠기 때문에 정말 그래도 되나? 하는 의문이 들었지만 뜻이 다 있겠거니 하고 컬렉션을 써봤다. 말 그대로 **신세계** 였다. stream만 봐도 그렇다. 진작에 써볼 걸 하는 후회가 들었다. 지금은 API를 열심히 쓰고 다닌다. 꼭 치트키를 쓰는 기분이다.
+
+
 
 ### 그 외
 
@@ -176,6 +197,8 @@ class ElseExample {
 ![%E1%84%8B%E1%85%AE%E1%84%8B%E1%85%A1%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%203%E1%84%80%E1%85%B5%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%20%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5%2051e5292ba30b4756a3974322db2417ce/Untitled.png](%E1%84%8B%E1%85%AE%E1%84%8B%E1%85%A1%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%90%E1%85%A6%E1%84%8F%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%203%E1%84%80%E1%85%B5%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%20%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5%2051e5292ba30b4756a3974322db2417ce/Untitled.png)
 
 과거의 나를 요약하자면 이렇다.
+
+
 
 ## 3. 오프라인(?) 코딩 테스트를 앞두고
 
