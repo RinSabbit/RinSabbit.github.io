@@ -78,10 +78,12 @@ image: spourt.jpg
 ## 2. 프리코스 진행
   <br>
   프리코스는 깃허브에서 주어진 미션을 fork하여 새 branch를 생성해 구현을 하고 pull request를 하는 방식으로 진행되었다. 미션은 일주일에 하나씩 총 3개의 미션을 구현해야 했다. 주어진 미션들은 다음과 같다. 차후에 우테코에 지원할 의향이 있는 사람들이 참고할 수 있도록 각 미션에 내가 제출한 미션 링크를 걸어두겠다.
+  
   <br>
-- 1주차 - [숫자 야구 게임](https://github.com/RinSabbit/java-baseball-precourse/tree/rinsabbit)      |  목표 : 함수를 분리하는 연습
+  
+- 1주차 - [숫자 야구 게임](https://github.com/RinSabbit/java-baseball-precourse/tree/rinsabbit)         |  목표 : 함수를 분리하는 연습
 - 2주차 - [자동차 경주 게임](https://github.com/RinSabbit/java-racingcar-precourse)  |  목표 : 클래스를 분리하는 연습
-- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)      |  목표 : 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 연습  
+- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)         |  목표 : 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 연습  
 
 <br>
 
@@ -209,7 +211,10 @@ class ElseExample {
 <br><br>
 
 ### 일급 컬렉션과 자바 API
+
   <br>
+  
+  
   미션 제출이 마감되면 다음 미션이 시작되면서 공통 피드백이 내려온다. 몇몇은 이미 내게 익숙했고 몇몇은 새로웠다. 기억에 남는 피드백은 아래와 같다.
 
 <br>
@@ -239,6 +244,7 @@ class ElseExample {
 ![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png "MVC 모델을 알기 전 프로젝트 툴 구성")  
   
 엠비씨 모델을 알고 난 이후에는 이렇게 짰다.
+
 ![엠비씨모델적용후](https://blogfiles.pstatic.net/MjAyMDEyMTNfNzQg/MDAxNjA3NzkyNTg4MjYx.ZMn79GZWdlOKSU1Li2BNLW-BfQSq8vUylNi5bbFCXGwg.goSGI1IdWfbJqZ5JZ3rrcFrZ5iQvHfihiC8Xkn0gUDQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.17.00.png "MVC 모델을 알고 난 후 프로젝트 툴 구성. 아직 배울 점이 많은 것 같다")
 
 
@@ -253,7 +259,9 @@ class ElseExample {
 - Git 사용법
 - [Git Commit Convention](https://doublesprogramming.tistory.com/256)
 - 기타 등등...
+
   <br>
+  
   대부분 프리코스에서 가르쳐서 배운 게 아닌, 미션을 구현하며 혼자 공부해 배운 것들이다. 신기했다. 나 혼자 이만큼이나 공부하다니... 확실히 프리코스를 겪으며 코드를 보는 눈이 성장한 게 틀림없었다. 성장한 정도를 알아보고 싶어 먼 옛날에 쓴 코드를 꺼내봤는데 아주 과관이라고 느낄 정도였으니까 말이다. 학교 공부를 하면서도 이렇게 뿌듯함을 느낀 적이 없는데, 새삼 프리코스에 고마웠다.
   
 <br>
@@ -264,9 +272,11 @@ class ElseExample {
 <br><br>
 
 ## 3. 오프라인(?) 코딩 테스트를 앞두고
+
   <br>
   
   다가오는 19일에 코딩 테스트를 본다. 본디 오프라인으로 진행될 예정이었으나 코로나로 인해 온라인으로 전환되었다. 아쉽지만 시험을 못 보는 것보단 나았다.
+  
   <br>
   
   앞서 말했듯이 우테코는 자기주도 학습을 중요시 여긴다고 했지만, 정말로 혼자 공부하도록 내버려두지 않는다. 대신 혼자 공부할 수 있는 밭과 비료를 조성해두고 씨앗들이 어떻게 자라나 지켜본다. 농부는 모든 씨앗이 훌륭한 작물이 되길 바라겠지만, 밭에 심어진 씨앗이 어떻게 뿌리를 뻗고 싹을 움틀 것인지는 농부도 밭도 아닌 씨앗에게 달려있다. 그러니 남은 기간동안 쑥쑥 자라기 위해 최선을 다 할 생각이다. 우테코에 대한 도전이기 이전에 스스로에 대한 도전으로 받아들이기로 했다. 그럼 어떤 결과가 나오더라도 만족할 듯 싶다.  
