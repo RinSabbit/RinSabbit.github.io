@@ -41,7 +41,8 @@ image: spourt.jpg
   
   
 ```
-이 과정을 통해 지원자는 우아한테크코스 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고, 저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
+이 과정을 통해 지원자는 우아한테크코스 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고,
+저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
 '서로가 같이할 수 있는지를 탐색할 수 있는 시간'이라고 생각하면 됩니다.
 (...중략...)
 '우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전'했으면 합니다.
@@ -59,15 +60,15 @@ image: spourt.jpg
   
 - 1주차 - [숫자 야구 게임](https://github.com/RinSabbit/java-baseball-precourse/tree/rinsabbit)      |  목표 : 함수를 분리하는 연습
 - 2주차 - [자동차 경주 게임](https://github.com/RinSabbit/java-racingcar-precourse)  |  목표 : 클래스를 분리하는 연습
-- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)      |  목표 : 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 연습
-  
+- 3주차 - [지하철 노선도](https://github.com/RinSabbit/java-subway-map-precourse)      |  목표 : 분리된 클래스들끼리 관계를 맺어 하나의 프로그램을 완성하는 연습  
+
+
   주차를 거듭하면서 더 큰 그림을 그리게 하는 식이었다. 난이도도 자연스레 올라갔다. 숨이 막힐 정도로 어렵진 않았지만 간혹 코드가 막힐 정도로 어렵긴 했다. 막힐 때면 침대에 누워 이걸 어떻게 하냐고 넋두리를 하며 훌쩍거렸다. 충분히 훌쩍거리고 나선 다시 일어나 컴퓨터 앞에 앉았다. 원래 공부는 울면서 해야 늘어난다고 어디서 주워들은 게 있어서 그랬다.
   
   훌쩍거린 효과가 있었는지 공부는 잘 되었다. 프리코스에서 어떤 공부를 해야할지 방향을 잘 잡아준 덕택도 있었다. 미션은 크게 기능 요구사항, 프로그래밍 요구사항, 진행 요구사항으로 나누어졌는데, 각 요구사항에서 무엇을 해야할지 세분화해서 정해주니 무엇을 해야할지 명료했다. 이 중 **프로그램 요구사항**을 지키면서 특히 많은 공부를 하게 되었다.
   
-![프로그래밍 요구사항](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjIy/MDAxNjA3NzkyNTg3NTc2.-g2m7JqK9CqObwDre-y15QTYc9s2s28Tfo0MrJxbp5cg.Siy776Z5DXVjKpIg-nZBjxPNH-nMuCmi8rtkzTcQTfQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_6.36.21.png "프로그래밍 요구사항")
-  
-모든 미션에 공통적으로 달려있던 프로그래밍 요구사항
+![프로그래밍 요구사항](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjIy/MDAxNjA3NzkyNTg3NTc2.-g2m7JqK9CqObwDre-y15QTYc9s2s28Tfo0MrJxbp5cg.Siy776Z5DXVjKpIg-nZBjxPNH-nMuCmi8rtkzTcQTfQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_6.36.21.png "프로그래밍 요구사항")  
+> 모든 미션에 공통적으로 달려있던 프로그래밍 요구사항
   
   위 요구사항을 처음 봤을 때 적잖이 충격을 받았다. *자바 코드 컨벤션은 뭐지? 3항 연산자를 쓰는 편이 좋지 않나? 불가피하게 인덴트가 3이 넘으면 어쩌지? 함수가 저렇게 짧아도 되나? else를 쓰지 말라고? switch문도?* 이러한 의문들은 구글링을 하고 코드를 짜면서 자연스레 해결되었다. 그 중 크게 도움이 된 것들을 소개한다.
 
@@ -79,13 +80,12 @@ image: spourt.jpg
   
 - [구글 Java 코딩 컨벤션 한글 해석](https://nowonbun.tistory.com/378)
 - [오라클 Java 코딩 컨벤션 한글 해석](http://kwangshin.pe.kr/blog/java-code-conventions-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99/)
-- [네이버 캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)
+- [네이버 캠퍼스 핵데이 Java 코딩 컨벤션](https://naver.github.io/hackday-conventions-java/)  
   
  나는 InteliJ를 쓰기에 네이버 캠퍼스 핵데이 Java 코딩 컨벤션의 Appendix.D.2 를 참고하여 포맷터를 설정했다. 매번 컨벤션을 들여다보면서 코드를 뜯어고칠 수는 없으니까. 코드 포맷팅 단축키는 윈도우 기준 `Ctrl + Alt + L`  맥OS 기준 `⌘ + ⌥ + L` 라는 것도 알아놓자. *(단축키 만세!)*
   
-![구글 컨벤션 ](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjcz/MDAxNjA3NzkyNTg3NTcw.0jlyMK7igm9IjFr5ZMcJI06ehsMiYqabfltuCotmFHUg.zGY2iQR4tUEbUpluDhxvswoKuJOVm91k_t-xEui2s2kg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_7.10.53.png)
-  
-이렇게 설정해두면 마음껏 코드를 치고 마무리로 코드 포맷팅을 하면 된다. 마법 같다. 
+![구글 컨벤션 ](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjcz/MDAxNjA3NzkyNTg3NTcw.0jlyMK7igm9IjFr5ZMcJI06ehsMiYqabfltuCotmFHUg.zGY2iQR4tUEbUpluDhxvswoKuJOVm91k_t-xEui2s2kg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_7.10.53.png)  
+> 이렇게 설정해두면 마음껏 코드를 치고 마무리로 코드 포맷팅을 하면 된다. 마법 같다. 
 
 <br>
 
@@ -171,26 +171,25 @@ class ElseExample {
 
 ### 그 외
   
-  위 4가지 말고도 프리코스에서 배운 것은 많았다.
+  위 4가지 말고도 프리코스에서 배운 것은 많았다.  
   
-- static 과 final 의 차이
-- [enum](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
-- 함수형 인터페이스 (Runnable, Consumer, Supplier)
-<details>
+  <details>
 <summary><a href="https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/">MVC 모델</a>
 </summary>
 <div markdown="1">       
-	
-![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png "MVC 모델을 알기 전 프로젝트 툴 구성")
+엠비씨 모델을 알기 전에는 이렇게 디렉토리를 구성했다.	
+![엠비씨모델적용전](https://blogfiles.pstatic.net/MjAyMDEyMTNfMTM0/MDAxNjA3NzkyNTg4MTk4.XX0Xsf5NvAWaCzYZ-Kv_Zqut7yFuqM9p_y0J-6CTns0g.MVlKprKsm3SLM9VNQC24bxJy99NhNSjRh_kkkZ4SlIkg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.16.32.png "MVC 모델을 알기 전 프로젝트 툴 구성")  
   
-
+엠비씨 모델을 알고 난 이후에는 이렇게 짰다.
 ![엠비씨모델적용후](https://blogfiles.pstatic.net/MjAyMDEyMTNfNzQg/MDAxNjA3NzkyNTg4MjYx.ZMn79GZWdlOKSU1Li2BNLW-BfQSq8vUylNi5bbFCXGwg.goSGI1IdWfbJqZ5JZ3rrcFrZ5iQvHfihiC8Xkn0gUDQg.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_10.17.00.png "MVC 모델을 알고 난 후 프로젝트 툴 구성. 아직 배울 점이 많은 것 같다")
 
 
 
 </div>
 </details>
-
+- static 과 final 의 차이
+- [enum](https://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
+- 함수형 인터페이스 (Runnable, Consumer, Supplier)
 - [InteliJ 단축키](https://youtu.be/HgWU25YwDfc)
 - Git 사용법
 - [Git Commit Convention](https://doublesprogramming.tistory.com/256)
@@ -198,9 +197,8 @@ class ElseExample {
   
   대부분 프리코스에서 가르쳐서 배운 게 아닌, 미션을 구현하며 혼자 공부해 배운 것들이다. 신기했다. 나 혼자 이만큼이나 공부하다니... 확실히 프리코스를 겪으며 코드를 보는 눈이 성장한 게 틀림없었다. 성장한 정도를 알아보고 싶어 먼 옛날에 쓴 코드를 꺼내봤는데 아주 과관이라고 느낄 정도였으니까 말이다. 학교 공부를 하면서도 이렇게 뿌듯함을 느낀 적이 없는데, 새삼 프리코스에 고마웠다.
 
-![머리로날아다니는](https://i.redd.it/rskneik2r4h41.jpg)
-
-과거의 나를 요약하자면 이렇다.
+![머리로날아다니는](https://i.redd.it/rskneik2r4h41.jpg)  
+> 과거의 나를 요약하자면 이렇다.
 
 <br>
 
