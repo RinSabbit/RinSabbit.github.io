@@ -11,7 +11,7 @@ image: spourt.jpg
 
 [우아한 형제들](https://www.woowahan.com/)에서 진행하는 [우아한 테크코스](https://woowacourse.github.io/) 1차 전형을 통과하고 프리코스를 3주 동안 진행하였다. 이에 프리코스를 진행하며 겪은 바와 공부한 것을 정리할 겸 후기를 써 본다.
   
-**차례**  
+> 차례
 > 0. 1차 전형
 > 1. 프리코스 준비
 > 2. 프리코스 진행
@@ -21,19 +21,20 @@ image: spourt.jpg
 
 ## 0. 1차 전형
   
-  이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.
-![불합 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png "불합 메일")
+  이번 우아한 테크코스는 내게 있어 두 번째 도전이다. 우아한 테크코스 2기를 지원한 적이 있기 때문이다. 결과는 1차 심사에서 장렬하게 탈락. 프리코스의 'ㅍ'도 맛보지 못했다.  
+![불합 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjk3/MDAxNjA3NzkyNTg2OTE2.t-ay8lQ74PIWK0oUrlXqAv3rOQwWmxS6fOhb7Rw0lj4g.pmS5iUcFH4Hk9ar1H1FKRVmoEKwqwCvg1GGp7r5imN0g.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.06.43.png "불합 메일")  
+> 당시 결과 안내 메일. 안 울었다.
   
   탈락 소식을 듣고 1년이 지났다. 그동안 바뀐 모습을 보여주겠다는 포부로 3기에 도전했다. 제출 마감 2주 전에 자소서를 미리 쓰기 위해 노트북 앞에 앉았다. 13일 동안 빈 페이지만 노려보다가 남은 하루 동안 밤을 꼴딱 새 자소서를 완성했다. 결국 자소서를 제출하고, 코딩테스트를 준비하고, 시험을 치고, 결과가 나올 때까지 일말의 기대를 하지 않았다. 이유는 간단했다. 하루만에 쓴 자소서가 잘 써졌을 리가 없으니 당연히 탈락할 거라고 생각했기 때문이다. 제출하고 나니 뭐라고 썼는지 기억이 하나도 안 났던 것도 슬픈 예측에 힘을 얹어줬다. 1차 심사 결과가 오기 전까지는 그랬다.
   
-![합격 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjE2/MDAxNjA3NzkyNTg2ODY3.dAHLM3zx8_UPFbLb7o4tjp4aJbYi1uj14RRJUSQS35Yg.fIl5TQypAe9V0KvIDTvb7r4yh6o4wyYdAX3QIAEkGGog.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.05.20.png "합격 메일")
-  
-작년과 다른 결과 안내 메일이 오니 감회가 남달랐다.
+![합격 메일](https://blogfiles.pstatic.net/MjAyMDEyMTNfMjE2/MDAxNjA3NzkyNTg2ODY3.dAHLM3zx8_UPFbLb7o4tjp4aJbYi1uj14RRJUSQS35Yg.fIl5TQypAe9V0KvIDTvb7r4yh6o4wyYdAX3QIAEkGGog.PNG.celena1004/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-12-12_%EC%98%A4%ED%9B%84_5.05.20.png "합격 메일")  
+> 작년과 다른 결과 안내 메일이 오니 감회가 남달랐다.
   
   다섯 번 정독해도 `탈락`이 아니라 `합격`이었다. 자소서를 꺼내 보았다. 과거의 내가 대체 뭐라고 썼는지 궁금했다. 읽어보니 과거의 나와 지금의 나는 다른 사람이 아니었을까 하는 의심이 들었다. 하지만 분명 내가 쓴 게 맞았다. 마감의 힘이라는 걸 새삼 실감했다.
+  
 
-
-<br>
+<br>  
+  
 ## 1. 프리코스 준비
   
   1차 합격의 기쁨도 잠깐이었다. 최종 합격이 뜰 때까지 김칫국은 마시지 말자고 결심했기 때문에 묵묵하게 프리코스 준비를 시작했다. 프리코스는 우아한 테크코스(이하 우테코)만이 가지는 특이한 절차로, 본과정의 맛보기 코스다.
@@ -41,10 +42,10 @@ image: spourt.jpg
   
 ```
 이 과정을 통해 지원자는 우아한테크코스 과정을 미리 경험해 보면서 교육의 참여 여부를 결정할 수 있고, 저희는 우아한테크코스 과정을 소화하는데 어려움이 없는지 판단할 수 있는 기간이 될 수 있을 것 같아요.
-<b>서로가 같이할 수 있는지를 탐색할 수 있는 시간</b>이라고 생각하면 됩니다.
+'서로가 같이할 수 있는지를 탐색할 수 있는 시간'이라고 생각하면 됩니다.
 (...중략...)
-**우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전**했으면 합니다.
-- *프리코스 사전 준비 안내 메일에서 발췌*
+'우아한테크코스가 목표가 아니라 좋은 개발자로 성장하는 것을 목표로 하면서 성장해 나가는 과정으로 생각하고 도전'했으면 합니다.
+- 프리코스 사전 준비 안내 메일에서 발췌
 ```
   
   
